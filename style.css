@@ -120,4 +120,8 @@ main {
         flex-wrap: wrap;
         justify-content: center;
     }
+    .search::placeholder {
+        display: flex;
+        padding: 20%;
+    }
 }
