@@ -114,3 +114,9 @@ main {
 .movie:hover .overview {
     transform: translateY(0);
 }
+
+@media (max-width: 480px) {
+    .search {
+        padding: 0.3rem 0.4rem;
+    }
+}
