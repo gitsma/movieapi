@@ -24,7 +24,6 @@ header {
  header h1 {
     color: #dedede;
     margin: 0;
-    padding-left: 3%;
  }
 
 .search {
@@ -116,7 +115,7 @@ main {
 }
 
 @media (max-width: 480px) {
-    .search {
-        padding: 0.3rem 0.4rem;
+    #search {
+        padding-left: 5px;
     }
 }
