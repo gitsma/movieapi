@@ -113,3 +113,11 @@ main {
 .movie:hover .overview {
     transform: translateY(0);
 }
+
+@media (max-width: 480px) {
+    header {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
