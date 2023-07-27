@@ -122,6 +122,6 @@ main {
     }
     .search::placeholder {
         display: flex;
-        padding-left: 50%;
+        padding-left: 25%;
     }
 }
